@@ -6,7 +6,7 @@ A classic retro 2D Snake game built in Java using Java Swing/AWT and Object-Orie
 
 ## 🎮 How to Play
 
-* Use the **Arrow Keys** (or **WASD**) to steer the snake.
+* Use the **Arrow Keys** to steer the snake.
 * Eat the red food squares to grow longer and increase your score.
 * Avoid running into the screen borders or your own body.
 * If you hit a wall or yourself, it's **Game Over**!
